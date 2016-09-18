@@ -1,0 +1,1 @@
+summary(rnorm(n=20))
