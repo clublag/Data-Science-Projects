@@ -1,0 +1,16 @@
+Package: Library1
+Version: 0.1
+Date: 2016-10-15
+Title: Helper Functions Set 1
+Authors@R: 
+Author: Rohan Nanda
+Maintainer: Rohan Nanda <rohan.nanda@gmail.com>
+Depends:
+    R (>= 1.8.0)
+Suggests:
+    MASS
+Description: A collection of functions for my use.
+License: 
+URL: 
+BugReports: 
+RoxygenNote: 5.0.1
