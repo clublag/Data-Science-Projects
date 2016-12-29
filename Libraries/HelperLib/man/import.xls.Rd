@@ -2,7 +2,7 @@
 % Please edit documentation in R/Library 1.R
 \name{import.xls}
 \alias{import.xls}
-\title{Import XLS}
+\title{Import XLS (TEMPORARILY NOT WORKING)}
 \usage{
 import.xls(filename)
 }
